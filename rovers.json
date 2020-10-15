@@ -18,9 +18,9 @@
 		"rover": "0xB91473eE109229473F4D80Daa5CAfF17D4Bc4444"
 	},
 	{
-		"name":"WAR"
-		"url":"https://yieldwars.com/",
-		"token":"0xf4A81C18816C9B0AB98FAC51B36Dcb63b0E58Fde",
-		"rover":"0x9d79e728cff8dea7f75e3367bdeb15f462fa3d60"
+		"name": "WAR",
+		"url": "https://yieldwars.com/",
+		"token": "0xf4A81C18816C9B0AB98FAC51B36Dcb63b0E58Fde",
+		"rover": "0x9d79e728cff8dea7f75e3367bdeb15f462fa3d60"
 	}
 ]

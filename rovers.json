@@ -1,26 +1,26 @@
 [
-	{
-		"name":"$BASED CLASSIC",
-		"url": "https://based.money",
-		"token": "0x29428639d889fa989405ee9baf3ba088e6994edc",
-		"rover":"0x02d16D81C737793e031717Cd10F22C714bb4b8dC"
-	},
-	{
-		"name": "ROPE",
-		"url":"https://rope.lol",
-		"token":"0x9d47894f8becb68b9cf3428d256311affe8b068b",
-		"rover": "0x31D12DCAd438fBaf66a8cF8772Bdc2AA5dE0C9Cc"
-	},
-	{
-		"name": "SUSHI",
-		"url":"https://sushiswapclassic.org/",
-		"token":"0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
-		"rover": "0xB91473eE109229473F4D80Daa5CAfF17D4Bc4444"
-	},
-	{
-		"name": "WAR",
-		"url": "https://yieldwars.com/",
-		"token": "0xf4A81C18816C9B0AB98FAC51B36Dcb63b0E58Fde",
-		"rover": "0x9d79e728cff8dea7f75e3367bdeb15f462fa3d60"
-	}
+   {
+      "name":"$BASED CLASSIC",
+      "url":"https://based.money",
+      "token":"0x29428639d889fa989405ee9baf3ba088e6994edc",
+      "rover":"0x02d16D81C737793e031717Cd10F22C714bb4b8dC"
+   },
+   {
+      "name":"ROPE",
+      "url":"https://rope.lol",
+      "token":"0x9d47894f8becb68b9cf3428d256311affe8b068b",
+      "rover":"0x31D12DCAd438fBaf66a8cF8772Bdc2AA5dE0C9Cc"
+   },
+   {
+      "name":"SUSHI",
+      "url":"https://sushiswapclassic.org/",
+      "token":"0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+      "rover":"0xB91473eE109229473F4D80Daa5CAfF17D4Bc4444"
+   },
+   {
+      "name":"WAR",
+      "url":"https://yieldwars.com/",
+      "token":"0xf4A81C18816C9B0AB98FAC51B36Dcb63b0E58Fde",
+      "rover":"0x9d79e728cff8dea7f75e3367bdeb15f462fa3d60"
+   }
 ]

@@ -23,5 +23,12 @@
       "url":"https://yieldwars.com/",
       "token":"0xf4A81C18816C9B0AB98FAC51B36Dcb63b0E58Fde",
       "rover":"0x9d79e728cff8dea7f75e3367bdeb15f462fa3d60"
+   },
+   {
+      "name":"SNOW",
+      "url":"https://snowswap.org/",
+      "token":"0xfe9A29aB92522D14Fc65880d817214261D8479AE",
+      "rover":"0xe88e6e5e182b2bbdc3fb10e4b1c8ba83c25fbdd3"
    }
+   
 ]

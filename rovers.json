@@ -29,5 +29,17 @@
       "url":"https://snowswap.org/",
       "token":"0xfe9A29aB92522D14Fc65880d817214261D8479AE",
       "rover":"0xe88e6e5e182b2bbdc3fb10e4b1c8ba83c25fbdd3"
+   },
+   {
+      "name":"AMP",
+      "url":"https://amptoken.org/",
+      "token":"0xff20817765cb7f73d4bde2e66e067e58d11095c2",
+      "rover":"0x1a7de6d59973Bd63bF8b1A4819dE6003d12eb10C"
+   },
+   {
+      "name":"GODS UNCHAINED",
+      "url":"https://godsunchained.com/",
+      "token":"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "rover":"0xeA0e60a29384AB957212D406AB7Abc5Ac0bDF95b"
    }
 ]

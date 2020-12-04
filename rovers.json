@@ -41,5 +41,11 @@
       "url":"https://godsunchained.com/",
       "token":null,
       "rover":"0xeA0e60a29384AB957212D406AB7Abc5Ac0bDF95b"
-   }
+   },
+   {
+      "name":"RURAL",
+      "url":"https://www.youtube.com/watch?v=_CF3SHyFjZU&list=PL7C67B009285B4BAA&index=37",
+      "token":0xf56ab64bd31db771fd1f0e92164b16aebb8d5d68,
+      "rover":"0x9760e45877095add0969532ddc8de35dc584509c"
+   }  
 ]
